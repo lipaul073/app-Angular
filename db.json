@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "tasks": [
+    {
+      "id": 1,
+      "text": "吃午餐",
+      "day": "12:00",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "喝下午茶",
+      "day": "15:00",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "吃晚餐",
+      "day": "18:00",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "吃晚餐",
+      "day": "18:00",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "吃晚餐",
+      "day": "18:00",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "吃晚餐",
+      "day": "18:00",
+      "reminder": true
+    }
+  ]
+}

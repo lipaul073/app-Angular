@@ -1,0 +1,8 @@
+<div class="task">
+    <h3 class="item">{{tasks.text}}
+        <app-delete (btnDeleteClick)="btnDeleteClick(tasks)"
+        [task]="tasks"
+        ></app-delete>
+    </h3>
+    <p>{{tasks.day}} </p>
+</div>

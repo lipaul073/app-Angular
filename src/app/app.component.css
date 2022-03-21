@@ -1,0 +1,33 @@
+.containner{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 1200px;
+    
+}
+
+app-header{
+
+    display: block;
+    width: 500px;
+    border: 2px black solid;
+
+}
+
+app-footer{
+    
+    display: block;
+    width: 500px;
+    border: 2px rgb(10, 35, 150) solid;
+
+}
+
+app-tasks{
+    
+    display: block;
+    width: 500px;
+    border: 2px solid rgb(255, 0, 242);
+
+}
